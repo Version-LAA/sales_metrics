@@ -1,0 +1,21 @@
+employee_id,employee_name,title,department,location,salary,year_in_position,college_degree_type,total_sales,total_customers,high_sales_month,best_product
+31615,Dustin Harris,Energy engineer,Technology,Germany,112858.86,12,None,18126.05,175,February 2022,Product B
+21189,Christopher Martinez,Animal nutritionist,Healthcare,South Africa,45377.32,19,Master,43537.81,186,June 2021,Product B
+42801,Valerie Robinson,Network engineer,Healthcare,UK,110436.94,9,Doctorate,39578.89,104,February 2024,Product C
+59572,Dennis Sparks,"Civil engineer, consulting",Retail,China,67622.3,15,Master,49929.74,89,February 2024,Product B
+48889,Daniel White,"Administrator, local government",Technology,Germany,36176.72,18,Associate,3006.45,191,January 2022,Product E
+45806,Rachel Lin,Trade mark attorney,Finance,USA,40372.92,11,Associate,30922.86,134,May 2023,Product C
+46423,Shawn Smith,Legal secretary,Technology,Japan,35559.37,9,Doctorate,49985.13,199,November 2023,Product B
+38980,Ashley Stanley,Medical technical officer,Education,Canada,92292.77,11,Doctorate,17641.19,130,November 2021,Product B
+41747,Mrs. Elizabeth Hamilton,"Runner, broadcasting/film/video",Healthcare,USA,72705.06,10,None,26303.26,59,November 2021,Product C
+96138,Nicholas Tapia,Surgeon,Finance,Australia,115698.95,3,None,10255.02,74,July 2021,Product E
+48436,Julia Lopez,Animator,Technology,India,70839.09,19,None,41021.01,179,August 2021,Product D
+37563,Wanda Conner,Lexicographer,Healthcare,Canada,35427.42,7,Associate,19475.58,109,June 2021,Product A
+26247,Melanie Gutierrez,Medical sales representative,Healthcare,Germany,77454.55,16,Associate,24150.07,128,April 2023,Product E
+77870,Mrs. Sarah Horton,"Merchandiser, retail",Technology,USA,40664.39,2,Associate,40062.48,109,October 2020,Product B
+34184,Roberta Phillips,Chief Marketing Officer,Healthcare,USA,111333.75,17,Doctorate,27657.73,144,October 2023,Product C
+86635,Christopher Martinez,Chief Technology Officer,Technology,Germany,109052.24,18,Doctorate,17686.24,100,May 2022,Product B
+89852,Jose Blackwell,"Education officer, community",Healthcare,Germany,93184.75,4,None,20795.81,70,December 2019,Product B
+14178,Alexander Berry,Higher education lecturer,Healthcare,Canada,64464.55,9,Associate,38094.94,72,October 2022,Product C
+52757,Margaret Bradley,Facilities manager,Education,Brazil,86694.29,17,None,8759.12,96,October 2019,Product A
+64207,Elizabeth Scott PhD,Sports development officer,Finance,Australia,45816.66,13,Doctorate,48514.02,160,December 2023,Product B
